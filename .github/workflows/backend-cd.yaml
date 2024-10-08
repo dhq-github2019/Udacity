@@ -10,8 +10,6 @@ on:
       # This will only run on changes to the backend code
       - "starter/backend/**"
 
-      #dhq
-
 env:
   PYTHON_VERSION: 3.11
 
